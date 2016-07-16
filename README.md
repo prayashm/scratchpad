@@ -4,7 +4,7 @@ Quickly jot down notes. Notes are there when you visit again and they never leav
 
 ## How to use
 
-There is a live instance at [https://pad.sunu.in](https://pad.sunu.in). The data is stored on the client using localStorage.
+There is a live instance at [https://pad.prayashm.com](https://pad.prayashm.com). The data is stored on the client using localStorage.
 So only your browser has access to your notes.
 
 Hit `Enter` or click on the page to go into insert mode. Type out you notes. Hit `Esc` to go into view mode. View mode parses links,
